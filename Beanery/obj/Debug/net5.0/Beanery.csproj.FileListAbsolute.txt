@@ -27,6 +27,7 @@ C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\Razor\Views\Home\In
 C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\Razor\Views\Shared\_NavigationBar.cshtml.g.cs
 C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
@@ -38,4 +39,3 @@ C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\ref\Beanery.dll
 C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\Beanery.pdb
 C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\Beanery.genruntimeconfig.cache
 C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\Beanery.csproj.CopyComplete
-C:\Users\Benik\source\repos\Beanery\Beanery\obj\Debug\net5.0\Razor\Views\Shared\_NavigationBar.cshtml.g.cs
